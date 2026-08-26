@@ -11,5 +11,5 @@ ML researcher working on LLM post-training, RLVR/GRPO, reasoning, test-time comp
 ## Research
 
 - LLM post-training and RLVR/GRPO learning dynamics in the finite-sample regime
-- Reasoning and test-time compute, including single-pass aggregation controls
+- Reasoning and test-time compute
 - Controlled evaluation of language-model behaviour
