@@ -1,17 +1,15 @@
+# Guiv Farmanfarmaian
 
-## Local preview
+ML researcher working on LLM post-training, RLVR/GRPO, reasoning, test-time compute, and rigorous evaluation.
 
-You can open `index.html` directly in the browser, but a local server is better.
+- MSc Computer Science (Machine Intelligence), ETH Zurich
+- BSc Mathematics, ETH Zurich
+- COLM 2026 Workshop on Efficient Reasoning — *Selection, Recombination, or a Fresh Solve? A Candidate-Free Control for Single-Pass Test-Time Aggregation*
 
-If you have Python installed:
+[Website](https://guivff.github.io/) · [Paper](https://arxiv.org/abs/2608.18379) · [prefix-guided-rlvr](https://github.com/guivff/prefix-guided-rlvr)
 
-```bash
-python3 -m http.server 8000
-```
+## Research
 
-Then open:
-
-```text
-http://localhost:8000
-```
-
+- LLM post-training and RLVR/GRPO learning dynamics in the finite-sample regime
+- Reasoning and test-time compute, including single-pass aggregation controls
+- Controlled evaluation of language-model behaviour
